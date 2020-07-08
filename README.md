@@ -4,6 +4,9 @@ This is an image recognition machine learning app that does image prediction usi
 
 Click here to run the code in your browser:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kdhenderson/image_recognition/master)
+  - Click on the 'New' dropdown button and select 'Terminal'
+  - Run the program from the command line like this:
+	$ python3 brain.py
 
 This is what the program does step-by-step:
   - Assigns the execution path to get images from the current working directory (cwd) via the OS library.
